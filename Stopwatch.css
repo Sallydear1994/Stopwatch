@@ -1,0 +1,11 @@
+.stopwatch h1,
+.buttons-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  cursor: pointer;
+  margin-left: 20px;
+}
